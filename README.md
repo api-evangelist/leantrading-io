@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LeanTrading provides a platform that connects TradingView webhook alerts to brokerage accounts, automating trade execution, tracking performance, and offering mentorship, frameworks, and playbooks for systematic traders. The service includes free testing, Discord community support, and tools for automating, executing, tracking, evaluating, and improving trading strategies.
+LeanTrading provides a systematic trading workspace that lets users design, test, and run algorithmic strategies. It offers validation tools, analytics, optional mentoring, and integrates TradingView webhooks for automated execution and trade journaling. The platform focuses on education over signals, delivering tools for systematic traders to build, backtest, and monitor strategies in a secure, cloud‑based environment.
 
-**Areas:** Trading · Automation · Webhooks · Finance · Community · Platform
+**Areas:** Trading · Automation · Webhooks · Education · Analytics
 
 ## LeanTrading on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for LeanTrading is published on APIs.io rather than in this 
 
 ### APIs (1)
 
-- [LeanTrading API](https://apis.io/apis/leantrading-io/leantrading-api/) — API for LeanTrading platform, documented at the pricing page. No machine‑readable contract discovered.
+- [LeanTrading API](https://apis.io/apis/leantrading-io/leantrading-api/) — API reference not publicly documented; no machine‑readable contract discovered.
 
 ### Published properties
 
@@ -97,7 +97,6 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://leantrading.io/)
-- [Documentation](https://leantrading.io/features)
 - [Pricing](https://leantrading.io/pricing)
 - [Blog](https://leantrading.io/blog)
 - [Terms of service](https://leantrading.io/legal/terms)
@@ -106,16 +105,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.4** — emerging · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 21.9** — emerging · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
 | Discoverability | 58.9 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 4.8 |
-| Developer ergonomics | 11.9 |
-| Access clarity | 59.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 73.2 |
 
 **Agent readiness 21.8** — agent-aware
 
@@ -144,7 +143,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 18.5** — Securities & Market Data
+**Regulatory alignment 19.6** — Education & Research
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/leantrading-io/](https://apis.io/providers/leantrading-io/).
 
